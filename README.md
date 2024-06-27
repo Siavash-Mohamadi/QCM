@@ -1,4 +1,4 @@
-# QCM Project
+# QCM
 
 This project involves the implementation of various models to analyze QCM (Quartz Crystal Microbalance) data. The QCM class provides multiple functions to preprocess the data, fit different models, and visualize the results.
 
